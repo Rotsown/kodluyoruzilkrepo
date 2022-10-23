@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![kodluyoruzilkrepophoto](https://user-images.githubusercontent.com/85581625/197386646-d0cfbb5d-a180-44c7-a734-6f33de617118.PNG)
 
@@ -15,6 +15,7 @@ git clone https://github.com/Rotsown/kodluyoruzilkrepo.git
 # Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
 Linux için:
 ```
 cd kodluyoruzilkrepo
